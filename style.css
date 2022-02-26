@@ -37,7 +37,10 @@ i {
 }
 
 p {
-  margin: 0.2em auto;
+  margin: 0.5em auto;
+}
+li {
+  margin: 0.4em auto;
 }
 
 hr {
