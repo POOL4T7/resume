@@ -66,3 +66,21 @@ a {
   font-weight: 600;
   letter-spacing: 0.02em;
 }
+
+#dateFormat {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0;
+}
+
+#dateFormat>span {
+  margin-top: 1rem;
+  opacity: 0.7;
+
+}
+
+.role{
+  margin-top: 0;
+  font-weight: 550;
+  opacity: 0.7;
+}
